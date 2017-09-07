@@ -1,3 +1,4 @@
+
 Development Log
 Jeffrey Cutcliffe
 UserLogin Project
@@ -9,3 +10,5 @@ Step 4: Two hours
 Step 5: Two hours and 30 minutes
 Step 6: One hour
 Step 7: Two hours and 30 minutes
+
+Total: about 10 hours
