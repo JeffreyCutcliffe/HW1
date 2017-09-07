@@ -1,0 +1,21 @@
+Homework #1
+UserLogin Cover Letter
+Jeffrey Cutcliffe 
+
+CS2 preparedness:
+I feel prepared for CS2 but I guess it depends on how well others did on this project and how long it took them. 
+There were some difficult parts that I had to research but that's just because I didn't learn writing to files
+in CS1. I had also never used a StringBuffer before so that was new. Apart from those things, the logic wasn't 
+terribly difficult. I am using intelliJ for the first time so that took some getting used to as well.
+
+Development Process:
+The process used in this project was much different than what I'm used to. I loved the incremental development. 
+Setting up the skeleton program was a great use of abstraction that helped me think about how the methods
+would interact before I implemented them. According to my development log, steps 5 and 7 took the most time.
+
+Testing:
+I have done explicit testing in prior CS1 assignments, never to this extent though. The test plans were my own and 
+I somewhat worked on them as the project developed. Testing after each step was really helpful in finding problems 
+quickly and effectively. Not many of my test cases found errors in my logic as far as determining validity, but the
+testing came in handy when I was figuring out how to write to a file in the manner that I wanted as far as spacing 
+and next lines go.
