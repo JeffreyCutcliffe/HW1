@@ -1,0 +1,17 @@
+Test Plan
+User Login Project
+Jeffrey Cutcliffe
+
+After the skeleton program is written, test whether each method call happens at the right time with print messages.
+
+Test the readUser method to ensure its reading from the user and printing to the screen.
+
+After writting a check method, test cases that would pass and fail the test. Repeat for each check method.
+
+Test the loop in main that allows for multiple user logins, make sure its working properly.
+
+Test the checkvalidity method with many tests that fail only certain apsects of the specifications. Then test
+multiple spec failures, make sure the output is correct.
+
+After changing the output to go to a file, test all cases of pass and fail, make sure the output is going to the right place 
+and writing to the file in the correct format.

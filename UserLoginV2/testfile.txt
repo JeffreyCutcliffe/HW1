@@ -1,0 +1,49 @@
+
+Login: steve3! (invalid)
+    -- invalid case
+
+Login: STEVE3! (invalid)
+    -- invalid case
+
+Login: St3! (invalid)
+    -- too short
+
+Login: Steve! (invalid)
+    -- no digit
+
+Login: Steve3 (invalid)
+    -- invalid special character
+
+Login: st3! (invalid)
+    -- invalid case
+    -- too short
+
+Login: ST! (invalid)
+    -- no digit
+    -- invalid case
+    -- too short
+
+Login: ST (invalid)
+    -- invalid special character
+    -- no digit
+    -- invalid case
+    -- too short
+
+Login: Ste! (invalid)
+    -- no digit
+    -- too short
+
+Login: Ste3 (invalid)
+    -- invalid special character
+    -- too short
+
+Login: John4$ (valid)
+
+Login: Mark9% (invalid)
+    -- invalid special character
+
+Login: Mat#hew8 (valid)
+
+Login: Trey7@ (valid)
+
+Login: Joe4@ (valid)
